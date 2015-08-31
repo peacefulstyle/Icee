@@ -1,0 +1,1 @@
+speed_is_always_good
